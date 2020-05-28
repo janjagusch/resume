@@ -6,11 +6,7 @@
       "firstName": "Jan-Benedikt",
       "lastName": "Jagusch",
       "subtitle": "Data Scientist, Python Software Engineer and Open Source Fan",
-      "address": {
-        "line1": "Heidelberg, Germany",
-        "line2": "",
-        "line3": ""
-      },
+      "address": { "line1": "Heidelberg, Germany", "line2": "", "line3": "" },
       "phone": "0049176/71201520",
       "website": "",
       "email": "jan.jagusch@gmail.com"
@@ -18,7 +14,7 @@
     "objective": {
       "enable": true,
       "heading": "",
-      "body": "Open for new challenges in the area of software and machine learning engineering. My goal is to build tools that make a data scientist's life easier."
+      "body": "Data science team lead, experienced in empowering his team mates by providing tooling, data, infrastructure and advice. My goal is to develop solutions that make data scientists' work more efficient and their results production ready."
     },
     "work": {
       "enable": true,
