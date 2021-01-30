@@ -1,1 +1,290 @@
-{"data":{"profile":{"heading":"Profile","photo":"","firstName":"Jan-Benedikt","lastName":"Jagusch","subtitle":"Data Scientist, Python Software Engineer and Open Source Fan","address":{"line1":"Heidelberg, Germany","line2":"","line3":""},"phone":"0049176/71201520","website":"","email":"jan.jagusch@gmail.com"},"objective":{"enable":true,"heading":"","body":"I am a data science team lead that enjoys providing my colleagues with tooling, data, infrastructure and advice.\n\nMy focus lies on developing solutions that make data scientists more efficient and their results ready for production."},"work":{"enable":true,"heading":"Experience","items":[{"id":"384ad2a8-2603-468b-aaa2-da26979c4aa2","enable":true,"title":"Instaffo","role":"Team Lead Data Science","start":"2019/01","end":"","description":"* Managing and mentoring the 5 person data science team\n* Designing and developing machine learning models for matching jobs to candidates\n* Planning company data warehouse and implementing ETL processes\n* Analyzing and visualizing data for internal and external stakeholders using interactive dashboards\n* Introducing best practices regarding code quality, documentation, automation, testing and deployment"},{"id":"b0ee0764-8d57-4072-b54b-991d11a8b98e","enable":true,"title":"PyData","role":"Community Manager and Speaker","start":"2019/01","end":"","description":"* Organizing data science and open source events in the Rhine-Neckar area\n* Growing the local community from 300 to more than 1,100 members in one year\n* Engaging community members in international charity competition (PyGiving) and finishing in first place\n* Speaking at meetups and conferences"}]},"awards":{"enable":false,"heading":"Honors & Awards","items":[]},"certifications":{"enable":false,"heading":"Certifications","items":[]},"skills":{"enable":true,"heading":"Skills","items":["Python","Data Science","Machine Learning","Data Engineering","Software Engineering","Deep Learning","Genetic Algorithms","Teaching","Mentoring","Public Speaking"]},"hobbies":{"enable":true,"heading":"Tools, Packages and Frameworks","items":["Argo","Docker","Gitlab CI","Google BigQuery","Google Cloud Functions","Google Data Studio","Google PubSub","Jupyter","Kubernetes","MLFlow","Numpy","Pandas","Plotly","Poetry","Pytest","RabbitMQ","Redis","Scikit-Learn","Sentry","SQL","Travis CI"]},"education":{"enable":true,"heading":"Education","items":[{"id":"ccb75099-aa9e-405a-b05f-001b5f67efac","enable":true,"name":"New University of Lisbon","major":"Masters in Information Management","start":"2016/09","end":"2018/08","grade":"","description":"* Teaching masters course in natural language processing\n* Publishing research about applying genetic programming to deep learning in A rated conference (GECCO)"},{"id":"861f1815-1dbf-4d7c-a3b0-e236b0b4c6b8","enable":true,"name":"Baden-Wuerttemberg Cooperative State University","major":"Bachelors in International Management for Business and IT","start":"2013/09","end":"2016/08","grade":"","description":"* Completing dual study program together with Evonik Industries\n* Studying one semester at University of Tennessee, USA and working in Sao Paulo, Brazil"}]},"languages":{"enable":true,"heading":"Languages","items":[{"id":"8335f6b2-d263-4f6c-a61a-af7149d22b3f","enable":true,"key":"German","value":"","rating":0,"level":"Native"},{"id":"a136ce97-fd9c-49ba-8bc8-c92d1fd1c008","enable":true,"key":"English","value":"","rating":0,"level":"C1"},{"id":"51ee4072-0316-4f28-951a-36e937a5d5a4","enable":true,"key":"Portuguese","value":"","rating":0,"level":"B1"}]},"references":{"enable":false,"heading":"References","items":[{"id":"de9bfffe-7b44-4e33-ab1f-76aae0b041cf","enable":true,"name":"Nikolai Gulatz","position":"CTO, Instaffo GmbH","phone":"","email":"nikolai@instaffo.de","description":""},{"id":"b07cfe30-4ac0-4bab-a8fc-7141f4b95b28","enable":true,"name":"Mauro Castelli","position":"Associate Professor, NOVA IMS","phone":"","email":"mcastelli@novaims.unl.pt","description":""}]},"extras":{"enable":false,"heading":"Personal Information","items":[]}},"theme":{"layout":"onyx","font":{"family":"Open Sans"},"colors":{"background":"#ffffff","primary":"#212121","accent":"#212121"}}}
+{
+    "data": {
+        "profile": {
+            "heading": "Profile",
+            "photo": "",
+            "firstName": "Jan-Benedikt",
+            "lastName": "Jagusch",
+            "subtitle": "Data Scientist, Python Software Engineer and Open Source Fan",
+            "address": {
+                "line1": "Heidelberg, Germany",
+                "line2": "",
+                "line3": ""
+            },
+            "phone": "0049176/71201520",
+            "website": "",
+            "email": "jan.jagusch@gmail.com"
+        },
+        "objective": {
+            "enable": true,
+            "heading": "",
+            "body": "I am a data science team lead that enjoys providing my colleagues with tooling, data, infrastructure and advice.\n\nMy focus lies on developing solutions that make data scientists more efficient and their results ready for production."
+        },
+        "work": {
+            "enable": true,
+            "heading": "Experience",
+            "items": [
+                {
+                    "id": "384ad2a8-2603-468b-aaa2-da26979c4aa2",
+                    "enable": true,
+                    "title": "Instaffo",
+                    "role": "Team Lead Data Science",
+                    "start": "2019/01",
+                    "end": "",
+                    "description": "* Managing and mentoring the 5 person data science team\n* Designing and developing machine learning models for matching jobs to candidates\n* Planning company data warehouse and implementing ETL processes\n* Analyzing and visualizing data for internal and external stakeholders using interactive dashboards\n* Introducing best practices regarding code quality, documentation, automation, testing and deployment"
+                },
+                {
+                    "id": "b0ee0764-8d57-4072-b54b-991d11a8b98e",
+                    "enable": true,
+                    "title": "PyData",
+                    "role": "Community Manager and Speaker",
+                    "start": "2019/01",
+                    "end": "",
+                    "description": "* Organizing data science and open source events in the Rhine-Neckar area\n* Growing the local community from 300 to more than 1,100 members in one year\n* Engaging community members in international charity competition (PyGiving) and finishing in first place\n* Speaking at meetups and conferences"
+                }
+            ]
+        },
+        "awards": {
+            "enable": false,
+            "heading": "Honors & Awards",
+            "items": []
+        },
+        "certifications": {
+            "enable": false,
+            "heading": "Certifications",
+            "items": []
+        },
+        "skills": {
+            "enable": true,
+            "heading": "Skills",
+            "items": [
+                {
+                    "id": "410cbd0a-0a6e-418a-83b1-b9ff9c6afa34",
+                    "skill": "Python"
+                },
+                {
+                    "id": "1598fc9e-922b-4752-b7ba-7708cfb749ad",
+                    "skill": "Data Sciecne"
+                },
+                {
+                    "id": "204a9fdb-c65a-475f-95d4-0e4b716477f1",
+                    "skill": "Machine Learning"
+                },
+                {
+                    "id": "bd0661a3-b1e2-4a4b-ab44-7e01e885795e",
+                    "skill": "Data Engineering"
+                },
+                {
+                    "id": "6a8e4cc0-37b5-4550-9ede-3d3877c71774",
+                    "skill": "Software Engineering"
+                },
+                {
+                    "id": "0f982dc1-827a-4763-a3bf-52c3746a1f4a",
+                    "skill": "Deep Learning"
+                },
+                {
+                    "id": "4a79327b-345a-4382-8921-0d8a226220e1",
+                    "skill": "Genetic Algorithms"
+                },
+                {
+                    "id": "76fdfd4f-2880-4316-9b23-ab5bbd44dbc9",
+                    "skill": "Teaching"
+                },
+                {
+                    "id": "21725b94-7f1c-4828-b7d5-39295611b4f2",
+                    "skill": "Mentoring"
+                },
+                {
+                    "id": "54639774-2418-42a8-8632-1e8f08470c76",
+                    "skill": "Public Speaking"
+                }
+            ]
+        },
+        "hobbies": {
+            "enable": true,
+            "heading": "Tools, Packages and Frameworks",
+            "items": [
+                {
+                    "id": "0c0efab6-7f6e-4561-a243-45dd289e3f1f",
+                    "hobby": "Argo"
+                },
+                {
+                    "id": "bd7539ee-0b81-4be7-9186-95e0a2eb0862",
+                    "hobby": "Docker"
+                },
+                {
+                    "id": "7e3b1055-e92c-4e89-8f62-b8d671b5c38e",
+                    "hobby": "Gitlab CI"
+                },
+                {
+                    "id": "85446388-57ef-4250-89a3-a91ed5a29f42",
+                    "hobby": "Google BigQuery"
+                },
+                {
+                    "id": "8ab5264a-3d5d-481a-8972-6a6b8a8c51a0",
+                    "hobby": "Google Cloud Functions"
+                },
+                {
+                    "id": "321cedc7-b61f-4499-bb21-1ddcf09a15ab",
+                    "hobby": "Google Data Studio"
+                },
+                {
+                    "id": "cadc4dcf-757f-4729-9b22-d47ee11928c4",
+                    "hobby": "Google PubSub"
+                },
+                {
+                    "id": "24cbed62-3d92-4513-baf3-25650aa425c0",
+                    "hobby": "Jupyter"
+                },
+                {
+                    "id": "5d811079-1fda-47a3-899b-cb432b35e264",
+                    "hobby": "Kubernetes"
+                },
+                {
+                    "id": "db75dcea-b073-47ab-8a7f-39eeb5571af2",
+                    "hobby": "MLFlow"
+                },
+                {
+                    "id": "d0500cd0-b057-434d-b49d-2a7f926307c0",
+                    "hobby": "Numpy"
+                },
+                {
+                    "id": "57682c24-f85b-4ec0-a4e3-8113d5bffbeb",
+                    "hobby": "Pandas"
+                },
+                {
+                    "id": "2fbb7472-b63f-4b5b-86e8-c1aaae99ba08",
+                    "hobby": "Plotly"
+                },
+                {
+                    "id": "3feb163c-328e-488c-b5fc-c7a4502d81ee",
+                    "hobby": "Poetry"
+                },
+                {
+                    "id": "f7243eae-8d04-4853-99a9-82bb8b45d63b",
+                    "hobby": "Pytest"
+                },
+                {
+                    "id": "e6876b88-b00d-4705-9e3a-cca79c8204eb",
+                    "hobby": "RabbitMQ"
+                },
+                {
+                    "id": "db36cb4a-eca3-4123-9353-aebdafd48e02",
+                    "hobby": "Redis"
+                },
+                {
+                    "id": "74ab160b-0bf6-4c2d-ade0-b36622096edf",
+                    "hobby": "Scikit-Learn"
+                },
+                {
+                    "id": "955d6059-f914-4dcf-9fbb-09cb8b301cac",
+                    "hobby": "Sentry"
+                },
+                {
+                    "id": "8002e879-d058-4ea6-8ffc-e8b30f85477a",
+                    "hobby": "SQL"
+                },
+                {
+                    "id": "fd91cca6-9b4c-472c-ab04-de6900a0582e",
+                    "hobby": "Travis CI"
+                }
+            ]
+        },
+        "education": {
+            "enable": true,
+            "heading": "Education",
+            "items": [
+                {
+                    "id": "ccb75099-aa9e-405a-b05f-001b5f67efac",
+                    "enable": true,
+                    "name": "New University of Lisbon",
+                    "major": "Masters in Information Management",
+                    "start": "2016/09",
+                    "end": "2018/08",
+                    "grade": "",
+                    "description": "* Teaching masters course in natural language processing\n* Publishing research about applying genetic programming to deep learning in A rated conference (GECCO)"
+                },
+                {
+                    "id": "861f1815-1dbf-4d7c-a3b0-e236b0b4c6b8",
+                    "enable": true,
+                    "name": "Baden-Wuerttemberg Cooperative State University",
+                    "major": "Bachelors in International Management for Business and IT",
+                    "start": "2013/09",
+                    "end": "2016/08",
+                    "grade": "",
+                    "description": "* Completing dual study program together with Evonik Industries\n* Studying one semester at University of Tennessee, USA and working in Sao Paulo, Brazil"
+                }
+            ]
+        },
+        "languages": {
+            "enable": true,
+            "heading": "Languages",
+            "items": [
+                {
+                    "id": "8335f6b2-d263-4f6c-a61a-af7149d22b3f",
+                    "enable": true,
+                    "key": "German",
+                    "value": "",
+                    "rating": 0,
+                    "level": "Native"
+                },
+                {
+                    "id": "a136ce97-fd9c-49ba-8bc8-c92d1fd1c008",
+                    "enable": true,
+                    "key": "English",
+                    "value": "",
+                    "rating": 0,
+                    "level": "C1"
+                },
+                {
+                    "id": "51ee4072-0316-4f28-951a-36e937a5d5a4",
+                    "enable": true,
+                    "key": "Portuguese",
+                    "value": "",
+                    "rating": 0,
+                    "level": "B1"
+                }
+            ]
+        },
+        "references": {
+            "enable": false,
+            "heading": "References",
+            "items": [
+                {
+                    "id": "de9bfffe-7b44-4e33-ab1f-76aae0b041cf",
+                    "enable": true,
+                    "name": "Nikolai Gulatz",
+                    "position": "CTO, Instaffo GmbH",
+                    "phone": "",
+                    "email": "nikolai@instaffo.de",
+                    "description": ""
+                },
+                {
+                    "id": "b07cfe30-4ac0-4bab-a8fc-7141f4b95b28",
+                    "enable": true,
+                    "name": "Mauro Castelli",
+                    "position": "Associate Professor, NOVA IMS",
+                    "phone": "",
+                    "email": "mcastelli@novaims.unl.pt",
+                    "description": ""
+                }
+            ]
+        },
+        "extras": {
+            "enable": false,
+            "heading": "Personal Information",
+            "items": []
+        }
+    },
+    "theme": {
+        "layout": "onyx",
+        "font": {
+            "family": "Open Sans"
+        },
+        "colors": {
+            "background": "#ffffff",
+            "primary": "#212121",
+            "accent": "#212121"
+        }
+    }
+}
