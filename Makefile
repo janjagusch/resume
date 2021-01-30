@@ -18,4 +18,4 @@ lint_prettier:
 lint: lint_prettier clean
 
 app:
-	@docker run -p 8080:80 amruthpillai/reactive-resume
+	@docker run -p 8080:80 amruthpillai/reactive-resume:v1
