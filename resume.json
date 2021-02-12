@@ -5,7 +5,7 @@
             "photo": "",
             "firstName": "Jan-Benedikt",
             "lastName": "Jagusch",
-            "subtitle": "Data Scientist, Python Software Engineer and Open Source Fan",
+            "subtitle": "Data Engineer, Data Scientist and Open Source Fan",
             "address": {
                 "line1": "Heidelberg, Germany",
                 "line2": "",
@@ -18,12 +18,21 @@
         "objective": {
             "enable": true,
             "heading": "",
-            "body": "I am a data science team lead that enjoys providing my colleagues with tooling, data, infrastructure and advice.\n\nMy focus lies on developing solutions that make data scientists more efficient and their results ready for production."
+            "body": "I am a data engineer that enjoys building great processes, infrastructure and tooling to make his data science colleagues' work more efficient and ready for production."
         },
         "work": {
             "enable": true,
             "heading": "Experience",
             "items": [
+                {
+                    "id": "4c47d277-b739-4ee7-b484-962b8e92ccb6",
+                    "enable": true,
+                    "title": "QuantCo",
+                    "role": "Data Engineer",
+                    "start": "2021/01",
+                    "end": "",
+                    "description": "* Improving prediction model containerization, deployment and orchestration\n* Supporting engineering team strategy and culture"
+                },
                 {
                     "id": "384ad2a8-2603-468b-aaa2-da26979c4aa2",
                     "enable": true,
@@ -187,6 +196,10 @@
                 {
                     "id": "fd91cca6-9b4c-472c-ab04-de6900a0582e",
                     "hobby": "Travis CI"
+                },
+                {
+                    "id": "bb1b7768-13a8-41a3-8567-5402d39ecb30",
+                    "hobby": "Conda"
                 }
             ]
         },
@@ -217,7 +230,7 @@
             ]
         },
         "languages": {
-            "enable": true,
+            "enable": false,
             "heading": "Languages",
             "items": [
                 {
@@ -279,7 +292,7 @@
     "theme": {
         "layout": "onyx",
         "font": {
-            "family": "Open Sans"
+            "family": "Montserrat"
         },
         "colors": {
             "background": "#ffffff",
